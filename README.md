@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @legendary-emu
 - 👀 I’m interested in systems programming, operating systems, and artificial intelligence
-- 🌱 I’m currently learning Java, C#, Ada, C/C++
+- 🌱 I’m currently learning Java, C#, Ada, and C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
