@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @legendary-emu
+- 👋 Hi, I’m @tj-knodel
 - 👀 I’m interested in embedded systems, systems programming, and operating systems.
 - 🌱 I’m currently learning Java, C#, Ada, and C
 - 💞️ I’m looking to collaborate on ...
